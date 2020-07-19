@@ -17,3 +17,5 @@ Create a chatbot on an external page to the RTC Wordpress website. The chatbot w
 REACT with the MobX state management library, HTML, CSS
 
 **Style guide will be adhered to while building the web application**
+
+##Sample Mockup
