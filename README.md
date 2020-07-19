@@ -19,4 +19,3 @@ REACT with the MobX state management library, HTML, CSS
 **Style guide will be adhered to while building the web application**
 
 ##Sample Mockup
-![](../Desktop/Chatbot mockup.png)
